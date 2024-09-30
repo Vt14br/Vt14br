@@ -2,8 +2,8 @@
 
  ─ Ｗｅｌｃｏｍｅ─
  
-► ## Eae galera!
-► ## Me chamo Vitor
+## ►  Eae galera!
+## ►  Me chamo Vitor
 
 ● Sou aluno do Alura https://www.alura.com.br
 
