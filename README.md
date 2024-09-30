@@ -1,3 +1,3 @@
 Eu sou Vitor
-me desenvolvendo em Java Script
+estou me desenvolvendo em Java Script
 sou atleta de 🏐 
