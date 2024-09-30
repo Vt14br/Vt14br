@@ -1,18 +1,20 @@
+⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄
+
 ## Eae galera!
 ## Me chamo Vitor
 
-●Sou aluno do [Alura][https://www.alura.com.br]
+● Sou aluno do Alura https://www.alura.com.br
 
 
-●Estou me desenvolvendo em Java Script 🖥🖱
+● Estou me desenvolvendo em Java Script 🖥🖱
 
 
-●Sou atleta de vôlei 🏐 
+● Sou atleta de vôlei 🏐 
 
 
-●Apaixonado em carros🏎️
+● Apaixonado em carros🏎️
 
-## Entre em contato comigo👇
+## ● Entre em contato comigo👇
 Vitor.batista.rodrigues@escola.pr.gov.br 
 
 
