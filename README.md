@@ -2,7 +2,7 @@
 ## ►  Eae galera!
 ## ►  Eu me chamo Vitor
 
-● Sou aluno do Alura https://www.alura.com.br
+● Sou aluno do Alura alura.com.br
 
 
 ● Estou me desenvolvendo em Java Script 🖥🖱
